@@ -1,0 +1,26 @@
+{
+	"name": "drupal-7-snippets",
+	"displayName": "Drupal-7-Snippets",
+	"description": "Full Drupal tags including Drupal 7 Snippets",
+	"version": "0.0.1",
+	"publisher": "juniormucciolo",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"galleryBanner": {
+		"color": "#1E81C1",
+		"theme": "light"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}
