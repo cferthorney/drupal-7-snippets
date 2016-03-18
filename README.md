@@ -24,6 +24,8 @@ This extension adds rich language support for the PHP & Drupal API to VS Code, i
 # Using
 Type part of a snippet, press enter and/Or tab, and the snippet unfolds.
 
+![alt text](http://g.recordit.co/7Yi7bJ6t7T.gif "Snippets Preview")
+
 # Installation
 
 1. Install Visual Studio Code
