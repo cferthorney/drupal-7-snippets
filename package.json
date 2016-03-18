@@ -2,7 +2,7 @@
 	"name": "drupal-7-snippets",
 	"displayName": "Drupal-7-Snippets",
 	"description": "Full Drupal tags including Drupal 7 Snippets",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "juniormucciolo",
 	"icon": "images/icon.png",
 	"engines": {
