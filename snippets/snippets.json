@@ -2007,7 +2007,7 @@
         "/**",
         " * Implements hook_image_toolkits().",
         " */",
-        "function hook_image_toolkits()hook_init() {","  $1","}"
+        "function hook_image_toolkits() {","  $1","}"
     ],
     "description": "Define image toolkits provided by this module.",
     "scope": "text.php"
@@ -2018,7 +2018,7 @@
         "/**",
         " * Implements hook_init().",
         " */",
-        "function hook_insert($node) {","  $1","}"
+        "function hook_init() {","  $1","}"
     ],
     "description": "Perform setup tasks for non-cached page requests.",
     "scope": "text.php"
@@ -2029,7 +2029,7 @@
         "/**",
         " * Implements hook_insert().",
         " */",
-        "function hook_install() {","  $1","}"
+        "function hook_insert($node) {","  $1","}"
     ],
     "description": "Respond to creation of a new node.",
     "scope": "text.php"
@@ -2040,7 +2040,7 @@
         "/**",
         " * Implements hook_install().",
         " */",
-        "function hook_install_tasks(&$install_state) {","  $1","}"
+        "function hook_install() {","  $1","}"
     ],
     "description": "Perform setup tasks when the module is installed.",
     "scope": "text.php"
