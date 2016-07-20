@@ -2227,7 +2227,7 @@
         "/**",
         " * Implements hook_menu().",
         " */",
-        "function hook_menu($may_cache) {","  $1","}"
+        "function hook_menu() {","  $1","}"
     ],
     "description": "Define menu items and page callbacks.",
     "scope": "text.php"
