@@ -1853,7 +1853,7 @@
         "/**",
         " * Implements hook_form_alter().",
         " */",
-        "function hook_form_alter(&$form, \\Drupal\\Core\\Form\\FormStateInterface $form_state, $form_id) {","  $1","}"
+        "function hook_form_alter(&$form, &$form_state, $form_id) {","  $1","}"
     ],
     "description": "Perform alterations before a form is rendered.",
     "scope": "text.php"
