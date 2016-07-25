@@ -1864,7 +1864,7 @@
         "/**",
         " * Implements hook_form_BASE_FORM_ID_alter().",
         " */",
-        "function hook_form_BASE_FORM_ID_alter(&$form, \\Drupal\\Core\\Form\\FormStateInterface $form_state, $form_id) {","  $1","}"
+        "function hook_form_BASE_FORM_ID_alter(&$form, &$form_state, $form_id) {","  $1","}"
     ],
     "description": "Provide a form-specific alteration for shared ('base') forms.",
     "scope": "text.php"
@@ -1875,7 +1875,7 @@
         "/**",
         " * Implements hook_form_FORM_ID_alter().",
         " */",
-        "function hook_form_FORM_ID_alter(&$form, \\Drupal\\Core\\Form\\FormStateInterface $form_state, $form_id) {","  $1","}"
+        "function hook_form_FORM_ID_alter(&$form, &$form_state, $form_id) {","  $1","}"
     ],
     "description": "Provide a form-specific alteration instead of the global hook_form_alter().",
     "scope": "text.php"
